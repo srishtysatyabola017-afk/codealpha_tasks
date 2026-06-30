@@ -6,4 +6,4 @@ This repository contains the tasks completed during my CodeAlpha Bioinformatics 
 
 ## Tasks
 - Task 1: BLAST Analysis
-- Task 2: Multiple Sequence Alignment
+- Task 2: Multiple Sequence Alignment 
